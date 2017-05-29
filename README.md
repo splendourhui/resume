@@ -1,4 +1,4 @@
-# Resume
+<!--# Resume
 
 [![Build Status](https://travis-ci.org/sonyccd/resume.svg?branch=master)](https://travis-ci.org/sonyccd/resume)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c97bb7af2b6e4a449825a9fe307488db)](https://www.codacy.com/app/bwbaze/resume?utm_source=github.com&utm_medium=referral&utm_content=sonyccd/resume&utm_campaign=badger)
@@ -24,4 +24,6 @@ This is a gulp node.js project so you will need to go a little bit more to make 
 4. Now install jekyll by following these instruction [here](https://jekyllrb.com/docs/installation/)
 5. Once everything is installed you need to build the site. To do this run ```gulp```. This will also start the local server and open a browser window for it.
 
-Credit to [online-cv](https://github.com/sharu725/online-cv) for the original styles!
+Credit to [online-cv](https://github.com/sharu725/online-cv) for the original styles!-->
+
+# 个人简历项目

@@ -1,0 +1,93 @@
+
+title: 简历
+url: 'https://splendourhui.github.io'
+baseurl: '/resume'
+#baseurl: ''
+
+
+#Profile information
+name: 郑南辉
+tagline: 前端开发，nodejs 开发
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: splendourhui@foxmail.com
+phone: 13416155105
+website: blog.splendourhui.com #do not add http://
+#linkedin: bradfordbazemore
+github: splendourhui
+#twitter: '@bwbaze'
+
+education:
+  - degree: "自动化学士"
+    school: "华南理工大学"
+    time: "2009 - 2013"
+    
+interests: ["健身", "乒乓球", "游戏"]
+
+#Content
+about: "前端工程师"
+
+#For each topic below you can add more than one thing. Each entry is divided by the -. For example each entry in the
+#skill is made up of a name and level.
+
+experiences:
+  - name: "前端工程师"
+    time: "2014-06 ~ 现在"
+    company: "CVTE"
+    description: "负责 IT 软件部分的前端开发，包括 PC WebApp，移动 Web 以及微信公众号、企业号的开发，还有部分服务和接口的开发和维护。
+    使用技术包括 Node.js、Koa、JQuery、React、Webpack 等"
+
+  - name: "嵌入式软件工程师"
+    time: "2013-06 ~ 2014-05"
+    company: "CVTE"
+    description: "TV 上的软件，根据客户需求进行定制化开发，主要负责安卓系统部分的开发"
+
+  # - name: "Teaching Assistant"
+  #   time: "May 2012 - May 2014"
+  #   company: "Georgia Southern University"
+  #   description: "Teaching Assistant for the department of Computer Science. This entails grading papers for
+  #   the professors I TA for, supervising labs, and on occasion giving lecture."
+
+  # - name: "Undergraduate Research Assistant"
+  #   time: "Jan 2012 - May 2014"
+  #   company: "Georgia Southern University"
+  #   description: "Conducted research in the fields of Cyber Physical Systems, High Performance Computing,
+  #   Robotics, and Operating Systems."
+
+projects:
+  # - name: "Jack-UI"
+  #   description: "A web based field robot management tool"
+  #   link: "https://github.com/sonyccd/jack-ui"
+    
+  # - name: "Resume"
+  #   description: "A web resume built with Jekyll and hosted on GitHub. (This thing!)"
+  #   link: "https://github.com/sonyccd/resume"
+
+  # - name: "Whitney"
+  #   description: "Counts cotton bolls from images to estimate crop yield"
+  #   link: "https://github.com/sonyccd/whitney"
+
+  # - name: "Red Rover Firmware"
+  #   description: "ROS Arduino firmware for Red Rover autonomous tractor"
+  #   link: "https://github.com/sonyccd/red-rover-firmware"
+
+  # - name: "Crop Row Follow"
+  #   description: "ROS node for detecting and following the rows in a row crop"
+  #   link: "https://github.com/sonyccd/crop_row_follow"
+
+  # - name: "Black Fish"
+  #   description: "Automated malware classification system with spark"
+  #   link: "https://github.com/snakes-in-the-box/blk-fish"
+
+skills:
+  - name: Javascript
+    level: 90%
+    
+  - name: React
+    level: 80%
+
+  - name: Node.js
+    level: 80%
+
+

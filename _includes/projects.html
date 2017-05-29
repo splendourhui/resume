@@ -1,0 +1,14 @@
+<section class="section projects-section">
+  <h2 class="section-title"><i class="fa fa-archive"></i>项目经历</h2>
+  <div class="intro">
+    <p></p>
+  </div><!--//intro-->
+
+  {% for project in site.projects %}
+  <div class="item">
+    <span class="project-title"><a href={{project.link}}>{{project.name}}</a></span> -
+    <span class="project-tagline">{{project.description}}</span>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
